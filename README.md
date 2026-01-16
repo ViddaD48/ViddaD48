@@ -14,7 +14,7 @@ Interested in building practical, software-driven engineering solutions.
 
 ### 🛠 Tools & Technologies
 - Programming: Python, C/C++
-- Embedded: ESP32, Raspberry Pi, Arduino (basic STM32)
+- Embedded: ESP32, Raspberry Pi, Arduino, STM32
 - ML & Data: TensorFlow/Keras, PyTorch, NumPy, Pandas
 - Simulation & Design: MATLAB, Webots, Altium, LTspice
 
